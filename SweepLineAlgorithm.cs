@@ -4,9 +4,8 @@ using UnityEngine;
 
 namespace zClipper
 {
-    public class Plane3
+    public class SweepLineAlgorithm
     {
-        public Vector3 pos;
-        public Vector3 normal;
     }
 }
+
